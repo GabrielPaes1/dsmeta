@@ -9,15 +9,17 @@
 
 body,
 html {
-  background-color: #000;
+  background-color: #181818;
   color: #fff;
 }
 
 a,
-a:hover,
 a:visited {
   color: unset;
   text-decoration: none;
+}
+a:hover {
+  color: #00BFFF;
 }
 
 .dsmeta-container {
